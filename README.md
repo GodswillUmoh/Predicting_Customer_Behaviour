@@ -24,6 +24,9 @@ _The First 15 rows of about 100 rows of data is displayed in the table_
 ## About the Dataset
 _The dataset is used to predict a categorical variable of Yes and No where the categories are encoded to be 1 (for Yes) and 0 (for No). This is to use the variable Age and Estimated Salary as the predictors._
 
+## Case Scenario
+Your company where you work as a data scientist just released a new brand of furniture, and your role is to predict which of your customers can purchased the product.
+
 ## Model used
 This model uses the Logistics Regression algorithm to carryout the prediction.
 
