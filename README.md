@@ -56,3 +56,23 @@ X_train = sc.fit_transform(X_train)
 X_test = sc.transform(X_test)
 ```
 
+```python
+from sklearn.linear_model import LogisticRegression
+#adding random state is for learning purpose to get same result on terminal
+classifier = LogisticRegression()
+classifier.fit(X_train, y_train)
+```
+
+## Predicting a new result
+```python
+# You have to transform to be in same scale as the ones already transformed
+# [[takes one record, all coulumn for that record]]
+y_one = classifier.predict(sc.transform([[30, 87000]]))
+
+# in the original set, the customer did not purchase, lets see if it
+# predicts [0]
+print(y_one)
+```
+
+## Complete Code
++ [To view and run codes in terminal, click to View](https://colab.research.google.com/drive/12sMqLDdWv2mAWSvH_HQXgMfto6W3P4IO#scrollTo=fGpFR5pIET0L)
