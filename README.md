@@ -76,3 +76,6 @@ print(y_one)
 
 ## Complete Code
 + [To view and run codes in terminal, click to View](https://colab.research.google.com/drive/12sMqLDdWv2mAWSvH_HQXgMfto6W3P4IO#scrollTo=fGpFR5pIET0L)
+
+## Confusion Matrix in Machine Learning
+A Confusion Matrix is a performance evaluation tool for classification models. It is a tabular representation that compares the actual target values with the predicted values from the model. This matrix helps measure how well a classification model performs in distinguishing between different classes.
