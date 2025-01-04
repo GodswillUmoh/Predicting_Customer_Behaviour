@@ -1,5 +1,6 @@
 # Predicting_Customer_Behaviour
 We are using Logistics Regression approach here where the dependent variable predicts a categorical outcome whether a customer will purchase a product or not
+Note: Logistics regression is a Linear Classifier
 
 ## Dataset
 _The First 15 rows of about 100 rows of data is displayed in the table_
