@@ -82,4 +82,4 @@ print(y_one)
 A Confusion Matrix is a performance evaluation tool for classification models. It is a tabular representation that compares the actual target values with the predicted values from the model. This matrix helps measure how well a classification model performs in distinguishing between different classes.
 
 ### Case Study of Logisctics Regression: Breast Cancer
-[Practical Case Study of Logisctics Regression, Click to view the Citation](https://www.udemy.com/course/logistic-regression-cancer-detection-case-study/?referralCode=7E62BC258B645C95D9F5)
+[Practical Case Study of Logisctics Regression, Click to view the Breast Cancer Dataset](https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic)
